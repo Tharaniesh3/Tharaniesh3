@@ -20,6 +20,7 @@
 <img align="left" alt="JavaScript" width="40px" style="margin:10px"  src="assets/js.png" />
 <img align="left" alt="Python" width="40px" style="margin:10px"  src="assets/python.png" />
 <img align="left" alt="Flask" width="70px"  style="margin:10px"  src="assets/flask.png" />
+<img align="left" alt="Flutter" width="40px" style="margin:10px"  src="assets/flutter.png" />
 <img align="left" alt="c" width="40px" style="margin:10px"  src="assets/c.png" />
 <img align="left" alt="photoshop" width="40px" style="margin:10px"  src="assets/photoshop.png" />
 <img align="left" alt="xd" width="40px" style="margin:10px"  src="assets/xd.png" />
