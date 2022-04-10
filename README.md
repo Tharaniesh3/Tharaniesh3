@@ -36,9 +36,6 @@
 [Twitter](https://twitter.com/_Tharaniesh_)
 <br>
 <br>
-[Github](https://github.com/Tharaniesh3/Cognizance-.git)
-<br>
-<br>
 [Linked In](https://www.linkedin.com/in/tharaniesh-p-r-1429a3171/)
 <br>
 <br>
