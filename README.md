@@ -1,5 +1,5 @@
 
-## <p align="center"><b>HI!👋 I'm Tharaniesh pursuing btech at Amrita Vishwa Vidhyapeetam.</b></p>
+## <p align="center"><b>HI👋 I'm Tharaniesh pursuing btech at Amrita Vishwa Vidhyapeetam.</b></p>
 ## <u>About me</u> :
 - 🔭 <b>passionate about programming,coding,software developing,software engineering.  </b>
 - 😄 <b>Pronouns: <u>Thaxx.</u><b>
