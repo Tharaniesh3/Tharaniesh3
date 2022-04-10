@@ -24,7 +24,7 @@
 <img align="left" alt="xd" width="40px" style="margin:10px"  src="assets/xd.png" />
 <img align="left" alt="premeire pro" width="40px" style="margin:10px"  src="assets/premiere-pro.png" />
 <img align="left" alt="linux" width="60px" style="margin:10px"  src="assets/linux.png" />
-<img align="left" alt="Autocad" width="40px" height="37" style="margin:10px"  src="assets/Autocad.png" />
+<img align="left" alt="Autocad" width="40px" height="37" style="margin:10px"  src="assets/autocad.png" />
 
 <br> 
 <br>
