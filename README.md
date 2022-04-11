@@ -1,11 +1,11 @@
 
 ## <p align="center"><b>HI👋 I'm Tharaniesh pursuing Btech at Amrita Vishwa Vidhyapeetam.</b></p>
 ## <u>About me</u> :
-- 🔭 <b>passionate about programming,coding,designing,software developing,software engineering.  </b>
-- 😄 <b>Pronouns: <u>Thaxx.</u><b>
-- 🔮 <b>Im currently learning Adobe XD and Flutter.</b>
-- ⚡ <b>Check out my [website](https://tharaniesh3.github.io/website.io/)✌️.</b>
-- ☕ <b>Hey want me to work wid you? Buy me a cup of coffee.<b>
+- 🖥️ <b>passionate about programming,coding,designing,software developing,software engineering.  </b>
+- 🐼 <b>Pronouns: <u>Thaxx.</u><b>
+- 🔮 <b>Im currently learning Adobe XD and Flutter ⌨.</b>
+- ⚡ <b>Check out my [website](https://tharaniesh3.github.io/website.io/)🔗.</b>
+- ☕ <b>Hey! want me to work wid you? Buy me a cup of coffee🍵.<b>
 <br>
 <p align="center">
     <a>
