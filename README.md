@@ -9,7 +9,7 @@
 <br>
 <p align="center">
     <a>
-        <img style="margin:50px" alt="Tharaniesh3 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharaniesh3&theme=midnight-purple&hide_border=true&border=DD0404&ring=00DDCF&background=000000&stroke=00DDAA&fire=DD08DC&currStreakNum=DD0202"/>
+        <img style="margin:50px" alt="Tharaniesh3 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharaniesh3&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </center></a>
 </p>
 <br>
