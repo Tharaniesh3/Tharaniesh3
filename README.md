@@ -1,5 +1,6 @@
 
-## <p align="center"><b>HI👋 I'm Tharaniesh pursuing Btech at Amrita Vishwa Vidhyapeetam🤓.</b></p>
+## <p align="center"><b>HI![MrBeanWaveGIF](https://user-images.githubusercontent.com/99646275/163385120-0aa2c725-a459-4dab-bb2c-665c70a9df56.gif)
+ I'm Tharaniesh pursuing Btech at Amrita Vishwa Vidhyapeetam🤓.</b></p>
 ## <u>About me</u> :
 - 🖥️ <b>passionate about programming,coding,designing,software developing,software engineering.  </b>
 - 🐼 <b>Pronouns: <u>Thaxx.</u><b>
