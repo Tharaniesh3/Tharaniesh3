@@ -46,7 +46,7 @@
 <br>
 <br>
 <hr>
-<p align="center">[Click Here To Know More👈.](https://tharaniesh3.github.io/website.io/)</p>
+<p align="center">Click Here To Know More👈.(https://tharaniesh3.github.io/website.io/)</p>
 <br>
 <br>
 <br>
