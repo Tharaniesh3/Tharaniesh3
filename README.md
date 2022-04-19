@@ -45,8 +45,9 @@
 [Email ID](mailto:www.tharanieshmarvel@gmail.com)
 <br>
 <br>
-<hr>
-<p align="center"><a>[Click Here To Know More👈.](https://tharaniesh3.github.io/website.io/)</a></p>
+<p align="center">
+[Click Here To Know More👈.](https://tharaniesh3.github.io/website.io/)
+</p>
 <br>
 <br>
 <br>
