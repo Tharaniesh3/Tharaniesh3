@@ -25,7 +25,7 @@
 <img align="left" alt="premeire pro" width="40px" style="margin:10px"  src="assets/premiere-pro.png" />
 <img align="left" alt="linux" width="60px" style="margin:10px"  src="assets/linux.png" />
 <img align="left" alt="Autocad" width="40px" height="37" style="margin:10px"  src="assets/autocad.png" />
-<img align="left" alt="davinci" width="40px" height="37" style="margin:10px"  src="assets/davinci.png" />
+<img align="left" alt="davinci" width="auto" height="37" style="margin:10px"  src="assets/davinci.png" />
 <img align="left" alt="figma" width="auto" height="37" style="margin:10px"  src="assets/figma.png" />
 <br> 
 <br>
