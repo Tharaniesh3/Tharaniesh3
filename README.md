@@ -4,7 +4,7 @@
 - 🔭 <b>passionate about programming,coding,software developing,software engineering.  </b>
 - 😄 <b>Pronouns: <u>Thaxx.</u><b>
 - 🔮 <b>Im currently learning Adobe XD and Flutter.</b>
-- ⚡ <b>Check out my [website](https://tharaniesh3.github.io/website.io/)✌️.</b>
+- ⚡ <b>Check out my [website](https://tharaniesh3.github.io/website/)✌️.</b>
 <br>
 <p align="center">
     <a>
@@ -46,6 +46,6 @@
 [Email ID](mailto:www.tharanieshmarvel@gmail.com)
 <br> 
 <br>
-[Click Here To Know More👈](https://tharaniesh3.github.io/website.io/)
+[Click Here To Know More👈](https://tharaniesh3.github.io/website/)
 
 </span>
