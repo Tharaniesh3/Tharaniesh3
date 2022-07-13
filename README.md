@@ -27,8 +27,11 @@
 <img align="left" alt="Autocad" width="40px" height="37" style="margin:10px"  src="assets/autocad.png" />
 <img align="left" alt="davinci" width="auto" height="37" style="margin:10px"  src="assets/davinci.png" />
 <img align="left" alt="figma" width="auto" height="37" style="margin:10px"  src="assets/figma.png" />
-<img align="left" alt="flutter" width="auto" height="37" style="margin:10px"  src="assets/flutter.svg" />
+<img align="left" alt="flutter" width="auto" height="37" style="margin:10px"  src="assets/flutter.png" />
 
+<br>
+<br>
+<br>
 <br>
 <br> 
 <br>
