@@ -1,9 +1,9 @@
 
 ## <p align="center"><b>HI!👋 I'm Tharaniesh pursuing btech at Amrita Vishwa Vidhyapeetam.</b></p>
 ## <u>About me</u> :
-- 🔭 <b>passionate about programming,coding,software developing,software engineering.  </b>
+- 🔭 <b>passionate about App development,software developing,Programming.And I'm currently working in a startup company.  </b>
 - 😄 <b>Pronouns: <u>Thaxx.</u><b>
-- 🔮 <b>Im currently learning Adobe XD and Flutter.</b>
+- 🔮 <b>Im currently learning Postman APi and Machine learning.</b>
 - ⚡ <b>Check out my [website](https://tharaniesh3.github.io/website/)✌️.</b>
 <br>
 <p align="center">
