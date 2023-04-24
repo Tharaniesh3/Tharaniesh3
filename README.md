@@ -4,7 +4,7 @@
 - 🔭 <b>passionate about App development,software developing,Programming.And I'm currently working in a startup company.  </b>
 - 😄 <b>Pronouns: <u>Thaxx.</u><b>
 - 🔮 <b>Im currently learning Postman APi and Machine learning.</b>
-- ⚡ <b>Check out my [website](https://tharaniesh3.github.io/website/)✌️.</b>
+- ⚡ <b>Check out my [website](https://tharaniesh.netlify.app/)✌️.</b>
 <br>
 <p align="center">
     <a>
