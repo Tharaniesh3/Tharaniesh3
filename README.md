@@ -16,7 +16,7 @@
 ---
 
 ### <u>Social Profiles</u> :
-- [Instagram](https://www.instagram.com/__thaxx__/)
+- [Instagram](https://www.instagram.com/imthaxx/)
 - [Twitter](https://twitter.com/_Tharaniesh_)
 - [LinkedIn](https://www.linkedin.com/in/tharaniesh-p-r-1429a3171/)
 - [Email](mailto:tharaniesh3@gmail.com)
